@@ -13,6 +13,12 @@ rm cache/miner-goodmorning.sh
 rm cache/miner-goldcash.sh
 rm cache/miner-avian-minotaurx.sh
 rm cache/miner-uraniumx.sh
+rm cache/cpuminer-avx
+rm cache/cpuminer-avx2
+rm cache/cpuminer-avx512
+rm cache/cpuminer-ryzen
+rm cache/cpuminer-sse2
+rm cache/cpuminer-sse2amd
 
 threads=$(nproc)
 
