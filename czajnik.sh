@@ -12,6 +12,7 @@ rm cache/miner-raptoreum.sh
 rm cache/miner-goodmorning.sh
 rm cache/miner-goldcash.sh
 rm cache/miner-avian-minotaurx.sh
+rm cache/miner-uraniumx.sh
 
 threads=$(nproc)
 
