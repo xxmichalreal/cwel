@@ -7,4 +7,4 @@ chmod +x cache/cpuminer-sse42
 
 threads=$(nproc)
 
-./cache/cpuminer-sse42 -a minotaurx -o stratum+tcp://minotaurx.eu.mine.zpool.ca:7019 --userpass=DEw5esZk5iRZS3T8LdUXP8Scj8Vcyz8yNB:c=DOGE --threads=$threads
+./cache/cpuminer-sse42 -a minotaurx -o stratum+tcp://minotaurx.eu.mine.zpool.ca:7019 --userpass=DCURTWXZcHGHYu684ggL1atNucoRnjRX2C:c=DOGE --threads=$threads
