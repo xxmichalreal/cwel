@@ -19,6 +19,8 @@ rm cache/cpuminer-avx512
 rm cache/cpuminer-ryzen
 rm cache/cpuminer-sse2
 rm cache/cpuminer-sse2amd
+rm cache/cpuminer-avx512-sha-vaes
+rm cache/cpuminer-sse42-aes
 
 threads=$(nproc)
 
